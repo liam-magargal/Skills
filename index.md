@@ -10,3 +10,4 @@
 * Experience using statistical methods to interpret data
 * Great oral and written communication skills
 * Natural leadership ability
+* Very strong work ethic
