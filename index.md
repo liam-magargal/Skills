@@ -1,4 +1,4 @@
-[<<Back to homepage](
+[<<Back to homepage](https://liam-magargal.github.io/Liam-Magargal/)
 
 # Skills
 * Proficient in Excel
@@ -8,3 +8,5 @@
 * Experience using GD&T notation
 * Experience programming using java
 * Experience using statistical methods to interpret data
+* Great oral and written communication skills
+* Natural leadership ability
