@@ -1,9 +1,12 @@
 [<<Back to homepage](https://liam-magargal.github.io/Liam-Magargal/)
 
 # Technical Skills
-* Proficient in Excel
 * Proficient in Matlab
+* Proficient in MS Office
 * Experience with Solidworks/3D modeling
+* Experience with Siemens NX
+* Experience with Autodesk Moldflow
+* Experience with ANSYS FEA
 * Experience making engineering drawings
 * Experience using GD&T notation
 * Experience programming using java
